@@ -17,6 +17,15 @@ Apply Feature generation and selection techniques to all the features of the dat
 Apply data visualization techniques to identify the patterns of the data.
 
 
+
+
+
+NAME=AKASH A
+REGISTER NUMBER=212221040010
+
+
+
+
 # CODE
 ```
 #Reading the given dataset
